@@ -1,2 +1,3 @@
 venvTensorFlow/*
 .env
+.ipynb_checkpoints/*
